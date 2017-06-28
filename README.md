@@ -1,5 +1,5 @@
 # EMScrollView
-If you have questions about how to use it, refer to the "example" branch.
+If you have questions about how to use it, please refer to the "example" branch.
 
 
 EMScrollView is:
