@@ -1,7 +1,5 @@
 # EMScrollView
-A simple Objective-C SpriteKit scrollview.
-
-This component was made to be as simple and intuitive as possible, but if you have questions about how to use it, refer to the "example" branch.
+If you have questions about how to use it, refer to the "example" branch.
 
 
 EMScrollView is:
