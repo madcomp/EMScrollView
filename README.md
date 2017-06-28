@@ -7,4 +7,5 @@ EMScrollView is:
 - Based on the Cocos2d scrollview implementation (CCScrollView);
 - Easy to import and implement;
 - Free for any use, including commercial;
+- iOS oriented;
 - Written in Objective-C;
