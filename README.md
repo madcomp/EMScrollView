@@ -28,10 +28,19 @@ Usage
         
         [self addChild:_scrollView];
         
-<img src="docs/scrollview_initial.png" width="320" height="568">
+<table>
+    <tr>
+        <td>
+            <img src="docs/scrollview_initial.png" width="320" height="568">
 
-*Initial position*
+            *Initial position*
+            
+        </td>
+        <td>
+            <img src="docs/scrollview_fullyscrolled.png" width="320" height="568">
 
-<img src="docs/scrollview_fullyscrolled.png" width="320" height="568">
-
-*Fully scrolled*
+            *Fully scrolled*
+            
+        </td>
+    </tr>
+</table>
