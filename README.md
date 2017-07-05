@@ -28,19 +28,7 @@ Usage
         
         [self addChild:_scrollView];
         
-<table>
-    <tr>
-        <td>
-            <img src="docs/scrollview_initial.png" width="320" height="568">
+Solarized dark                    |  Solarized Ocean
+:--------------------------------:|:-----------------------------------:
+![](docs/scrollview_initial.png)  |  ![](docs/scrollview_fullyscrolled.png)
 
-
-            
-        </td>
-        <td>
-            <img src="docs/scrollview_fullyscrolled.png" width="320" height="568">
-
-
-            
-        </td>
-    </tr>
-</table>
