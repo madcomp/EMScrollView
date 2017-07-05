@@ -72,7 +72,7 @@
 
 -(instancetype)initWithContentNode:(SKSpriteNode*)contentNode Size:(CGSize)size
 {
-    self = [super initWithColor:[UIColor redColor] size:size];
+    self = [super initWithColor:[UIColor clearColor] size:size];
     
     if (self)
     {
