@@ -22,7 +22,7 @@ Usage
         
         SKSpriteNode* background = [SKSpriteNode spriteNodeWithColor:[UIColor colorWithRed:0 green:0 blue:1 alpha:0.5] size:CGSizeMake(50, 500)];
         background.anchorPoint = ccp(0.5, 1.0);
-        background.position = CGPointMake(0, 0.5 * _scrollView.size.height);
+        background.position = CGPointMake(0, 0.5 * scrollView.size.height);
         [content addChild:background];
         
         [self addChild:scrollView];
