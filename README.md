@@ -28,7 +28,7 @@ Usage
         
         [self addChild:_scrollView];
         
-Solarized dark                    |  Solarized Ocean
+Initial position                  |  Fully scrolled
 :--------------------------------:|:-----------------------------------:
-![](docs/scrollview_initial.png)  |  ![](docs/scrollview_fullyscrolled.png)
+<img src="docs/scrollview_initial.png" width="320" height="568">  |  <img src="docs/scrollview_fullyscrolled.png" width="320" height="568">
 
