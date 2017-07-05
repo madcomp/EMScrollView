@@ -29,6 +29,9 @@ Usage
         [self addChild:_scrollView];
         
 <img src="docs/scrollview_initial.png" width="320" height="568">
+
 *Initial position*
-![](docs/scrollview_fullyscrolled.png)
+
+<img src="docs/scrollview_fullyscrolled.png" width="320" height="568">
+
 *Fully scrolled*
