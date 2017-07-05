@@ -28,7 +28,7 @@ Usage
         
         [self addChild:_scrollView];
         
-![](docs/scrollview_initial.png =320x568)
+![](docs/scrollview_initial.png | width=320 | height=568)
 *Initial position*
-![](docs/scrollview_fullyscrolled.png =320x568)
+![](docs/scrollview_fullyscrolled.png | width=320 | height=568)
 *Fully scrolled*
