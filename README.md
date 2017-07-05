@@ -1,4 +1,6 @@
-# EMScrollView
+EMScrollView
+-----------------------
+A simple Objective-C SpriteKit scrollview.
 
 Features
 -----------------------
@@ -26,5 +28,7 @@ Usage
         
         [self addChild:_scrollView];
         
-![](docs/scrollview_initial.png "Initial position")
-![](docs/scrollview_fullyscrolled.png "Fully scrolled")
+![](docs/scrollview_initial.png =320x568)
+*Initial position*
+![](docs/scrollview_fullyscrolled.png =320x568)
+*Fully scrolled*
